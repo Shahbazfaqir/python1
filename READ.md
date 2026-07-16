@@ -1,1 +1,0 @@
-## Here i understand function, how functions work with parameter and return value.
