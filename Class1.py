@@ -16,5 +16,5 @@ class Account:
     def check_balance(self):
         return self.balance
     
-account1=Account("Ahmed", 1000)
+account1=Account( "Ahmed", 1000 )
 account1.deposit(500)
